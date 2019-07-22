@@ -24,5 +24,4 @@ class ControlledInput extends React.Component {
     );
   }
 }
-
 export default ControlledInput;
